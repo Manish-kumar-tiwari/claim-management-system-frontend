@@ -1,3 +1,3 @@
-const BASE_URL = "http://localhost:5080/api/v1";
+const BASE_URL = "https://claimmanagementsystem-backend-1.onrender.com";
 
 export default BASE_URL;
